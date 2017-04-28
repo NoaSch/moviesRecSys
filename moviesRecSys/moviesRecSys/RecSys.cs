@@ -21,7 +21,8 @@ namespace moviesRecSys
         //for each movie there is list of recommendations/
         /// <summary>
         /// each recomendation contain the name of the user and the rating
-        /// פשוט תשנו את הפונצקציה הזו לפי הקבצי DB
+        ///  פשוט תשנו את הפונצקציה הזו לפי הקבצי 
+        ///  DB
         /// </summary>
         /// 
         
